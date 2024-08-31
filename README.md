@@ -1,0 +1,2 @@
+# VsCodeToRepo
+playing with Git
